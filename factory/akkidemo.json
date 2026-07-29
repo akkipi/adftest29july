@@ -1,0 +1,15 @@
+{
+	"name": "akkidemo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35e2f64f-2a6c-4ace-b901-98ed296a4baa",
+		"tenantId": "2627df5f-1a88-4e93-b393-3718fd6d084b"
+	}
+}
